@@ -317,10 +317,6 @@ Contributions are welcome! Please follow these guidelines:
 3. Push to branch (`git push origin feature/AmazingFeature`)
 4. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 **Made with ❤️ | Built with React + Node.js**
