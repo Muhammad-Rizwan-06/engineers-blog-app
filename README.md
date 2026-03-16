@@ -319,6 +319,5 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-**Made with ❤️ | Built with React + Node.js**
 
 For questions or support, please open an issue in the repository.
